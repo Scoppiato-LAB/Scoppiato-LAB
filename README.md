@@ -1,6 +1,5 @@
 # 💫 About Me:
-Se dovessi descrivere cosa faccio guardando le mie conversazioni degli ultimi 5 mesi, mi definirei un costruttore instancabile, uno smanettone a tutto tondo che spazia dallo sviluppo web all'infrastruttura di rete, dai server casalinghi all'intelligenza artificiale locale. Non mi fermo davanti a un errore: quando qualcosa non funziona, vado a fondo finché non lo risolvo.
-
+N/A
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KsYf6rG6SZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@scoppiato.it) 
